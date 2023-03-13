@@ -13,7 +13,7 @@ public class Main {
         int chose = scanner.nextInt();
         switch (chose){
             case 1-> logic.repeatUntilFoughtAllWords();
-            case 2-> System.out.println("dziekuje za uruchowmienie tej zacnej gry");
+            case 2-> System.out.println("Dziekuje za uruchowmienie tej zacnej gry");
         }
 
 
